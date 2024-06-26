@@ -1,4 +1,4 @@
-## Pluginade - When life gives you plugins, use Pluginade. 👋
+## 🍋 Pluginade - When life gives you plugins, use Pluginade. 👋
 Pluginade exists to help make WordPress plugin development easier.
 
 ### ⚙️ Tired of maintaining built/test/lint scripts for many WP plugins?
