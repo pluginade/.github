@@ -5,7 +5,7 @@ Pluginade exists to help make WordPress plugin development easier.
 Try using [Pluginade Scripts](https://github.com/pluginade/pluginade-scripts) with your plugin to remove the complexity and instantly implement PHPUnit, Playwright, Jest, WPCS/PHPCS linting, building, zipping, and more.
 https://github.com/pluginade/pluginade-scripts
 
-### Want to set up a CI/CD pipeline for your plugin?
+### 🚊 Want to set up a CI/CD pipeline for your plugin?
 Try using [Pluginade Scripts on Github Actions or CircleCI](https://github.com/pluginade/cicd-examples)
 
 ### 🔨 Starting a new plugin?
