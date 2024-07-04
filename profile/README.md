@@ -1,5 +1,5 @@
 ## 🍋 Pluginade - When life gives you plugins, use Pluginade. 👋
-Pluginade exists to help make WordPress plugin development easier.
+Pluginade exists to help make WordPress plugin development easier, and is a free, open source project by Phil Johnston and friends.
 
 ### ⚙️ Tired of maintaining built/test/lint scripts for many WP plugins?
 Try using [Pluginade Scripts](https://github.com/pluginade/pluginade-scripts) with your plugin to remove the complexity and instantly implement PHPUnit, Playwright, Jest, WPCS/PHPCS linting, building, zipping, and more.
