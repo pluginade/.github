@@ -16,8 +16,5 @@ Try using the Pluginade Builder (Coming Soon)
 ### 🏃🏻‍♀️ Need to update your "Tested Up To" quickly?
 Try our bumper tool (Coming Soon)
 
-### 🧪 Using Playwright?
-Try our "Playwright Test ID Adder" tool (coming soon) to make _recording_ (not writing) resilient e2e tests a breeze
-
 ### 🏛️ Need a simple architecture for easily modularizing your code?
 Try the Pluginade Framework (coming soon)
