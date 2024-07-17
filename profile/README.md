@@ -11,10 +11,7 @@ https://github.com/pluginade/pluginade-scripts
 Try using [Pluginade Scripts on Github Actions or CircleCI](https://github.com/pluginade/cicd-examples)
 
 ### 🔨 Starting a new plugin?
-Try using the Pluginade Builder (Coming Soon)
-
-### 🏃🏻‍♀️ Need to update your "Tested Up To" quickly?
-Try our bumper tool (Coming Soon)
+Try using the Pluginade Playground (Coming Soon)
 
 ### 🏛️ Need a simple architecture for easily modularizing your code?
 Try the Pluginade Framework (coming soon)
