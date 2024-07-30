@@ -9,9 +9,3 @@ https://github.com/pluginade/pluginade-scripts
 
 ### 🚊 Want to set up a CI/CD pipeline for your plugin?
 Try using [Pluginade Scripts on Github Actions or CircleCI](https://github.com/pluginade/cicd-examples)
-
-### 🔨 Starting a new plugin?
-Try using the Pluginade Playground (Coming Soon)
-
-### 🏛️ Need a simple architecture for easily modularizing your code?
-Try the Pluginade Framework (coming soon)
